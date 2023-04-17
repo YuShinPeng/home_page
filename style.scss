@@ -1,0 +1,12 @@
+//套件
+@import "./node_modules/bootstrap/scss/functions";
+
+@import "./stylesheet/helpers/variables";
+
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
+
+//自己寫的scss
+@import "./stylesheet/pages/home";
+
+@import "./stylesheet/pages/login";
+
